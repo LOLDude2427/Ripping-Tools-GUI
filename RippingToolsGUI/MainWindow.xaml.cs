@@ -21,6 +21,7 @@ namespace RippingToolsGUI
             btnTopDDSConv.IsEnabled = true;
             btnTopHKXConv.IsEnabled = true;
             btnTopColConv.IsEnabled = true;
+            btnTopSTEXConv.IsEnabled = true;
             /// btnTopBRRES.IsEnabled = true;
         }
 
@@ -31,6 +32,7 @@ namespace RippingToolsGUI
             btnTopDDSConv.IsEnabled = false;
             btnTopHKXConv.IsEnabled = true;
             btnTopColConv.IsEnabled = true;
+            btnTopSTEXConv.IsEnabled = true;
             /// btnTopBRRES.IsEnabled = true;
         }
 
@@ -41,6 +43,7 @@ namespace RippingToolsGUI
             btnTopDDSConv.IsEnabled = true;
             btnTopHKXConv.IsEnabled = false;
             btnTopColConv.IsEnabled = true;
+            btnTopSTEXConv.IsEnabled = true;
             /// btnTopBRRES.IsEnabled = true;
         }
 
@@ -51,6 +54,18 @@ namespace RippingToolsGUI
             btnTopDDSConv.IsEnabled = true;
             btnTopHKXConv.IsEnabled = true;
             btnTopColConv.IsEnabled = false;
+            btnTopSTEXConv.IsEnabled = true;
+            /// btnTopBRRES.IsEnabled = true;
+        }
+
+        private void btnTopSTEXConv_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new STEXConvPage();
+            btnTopModelFBX.IsEnabled = true;
+            btnTopDDSConv.IsEnabled = true;
+            btnTopHKXConv.IsEnabled = true;
+            btnTopColConv.IsEnabled = true;
+            btnTopSTEXConv.IsEnabled = false;
             /// btnTopBRRES.IsEnabled = true;
         }
 
@@ -61,6 +76,7 @@ namespace RippingToolsGUI
         ///    btnTopDDSConv.IsEnabled = true;
         ///    btnTopHKXConv.IsEnabled = true;
         ///    btnTopColConv.IsEnabled = true;
+        ///    btnTopSTEXConv.IsEnabled = true;
         ///    btnTopBRRES.IsEnabled = false;
         /// }
     }

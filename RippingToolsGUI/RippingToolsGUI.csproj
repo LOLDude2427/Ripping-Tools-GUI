@@ -143,6 +143,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="STEXConvPage.xaml.cs">
+      <DependentUpon>STEXConvPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="DDSConvPage.xaml.cs">
       <DependentUpon>DDSConvPage.xaml</DependentUpon>
     </Compile>
@@ -165,6 +168,10 @@
       <DependentUpon>LightTheme.xaml</DependentUpon>
     </Compile>
     <Compile Include="Themes\ThemesController.cs" />
+    <Page Include="STEXConvPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="DDSConvPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

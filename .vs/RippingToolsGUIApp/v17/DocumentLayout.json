@@ -3,18 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\rippingtoolsgui\\stexconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|solutionrelative:rippingtoolsgui\\stexconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\rippingtoolsgui\\modelfbxpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|solutionrelative:rippingtoolsgui\\modelfbxpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\rippingtoolsgui\\stexconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|solutionrelative:rippingtoolsgui\\stexconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\rippingtoolsgui\\modelfbxpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|solutionrelative:rippingtoolsgui\\modelfbxpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\rippingtoolsgui\\ddsconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|solutionrelative:rippingtoolsgui\\ddsconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\rippingtoolsgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|solutionrelative:rippingtoolsgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RippingToolsGUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestWFP\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\rippingtoolsgui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\rippingtoolsgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|RippingToolsGUI\\RippingToolsGUI.csproj|solutionrelative:rippingtoolsgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,23 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DDSConvPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\DDSConvPage.xaml",
+              "RelativeDocumentMoniker": "RippingToolsGUI\\DDSConvPage.xaml",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\DDSConvPage.xaml",
+              "RelativeToolTip": "RippingToolsGUI\\DDSConvPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-29T19:35:44.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelFBXPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\ModelFBXPage.xaml",
+              "RelativeDocumentMoniker": "RippingToolsGUI\\ModelFBXPage.xaml",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\ModelFBXPage.xaml",
+              "RelativeToolTip": "RippingToolsGUI\\ModelFBXPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-29T18:50:06.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RippingToolsGUI",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\RippingToolsGUI.csproj",
-              "RelativeDocumentMoniker": "RippingToolsGUI\\RippingToolsGUI.csproj",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\RippingToolsGUI.csproj",
-              "RelativeToolTip": "RippingToolsGUI\\RippingToolsGUI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-29T17:44:05.9Z",
+              "Title": "ModelFBXPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\ModelFBXPage.xaml.cs",
+              "RelativeDocumentMoniker": "RippingToolsGUI\\ModelFBXPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\ModelFBXPage.xaml.cs",
+              "RelativeToolTip": "RippingToolsGUI\\ModelFBXPage.xaml.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwMQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:38:54.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "STEXConvPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\STEXConvPage.xaml",
+              "RelativeDocumentMoniker": "RippingToolsGUI\\STEXConvPage.xaml",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\STEXConvPage.xaml",
+              "RelativeToolTip": "RippingToolsGUI\\STEXConvPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-29T18:45:51.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "STEXConvPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\STEXConvPage.xaml.cs",
+              "RelativeDocumentMoniker": "RippingToolsGUI\\STEXConvPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\STEXConvPage.xaml.cs",
+              "RelativeToolTip": "RippingToolsGUI\\STEXConvPage.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:46:19.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RippingToolsGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RippingToolsGUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwEoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:43:28.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\RippingToolsGUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RippingToolsGUI\\MainWindow.xaml",
@@ -49,17 +126,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-29T17:39:24.863Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "TestWFP\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\MainWindow.xaml",
-              "RelativeToolTip": "TestWFP\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-29T17:35:37.268Z"
             }
           ]
         }

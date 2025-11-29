@@ -1,0 +1,1 @@
+for %%f in (*.stex) do rpcli.exe -x3 %%f.png %%f

@@ -21,6 +21,10 @@
 
         <!-- Vertical menu on the left -->
         <StackPanel Grid.Column="0" Background="#212121" Orientation="Vertical" Margin="8">
+            <Label
+                Content="Model"
+                FontSize="15"/>
+
             <Button x:Name="btnTopModelFBX"
                     Click="btnTopModelFBX_Click"
                     BorderThickness="0"
@@ -31,20 +35,8 @@
                            Foreground="White"
                            VerticalAlignment="Center"
                            HorizontalAlignment="Left"
-                           FontSize="20"/>
-            </Button>
-
-            <Button x:Name="btnTopDDSConv"
-                    Click="btnTopDDSConv_Click"
-                    BorderThickness="0"
-                    Background="#FF202020"
-                    Height="40"
-                    Margin="0,0,0,8">
-                <TextBlock Text="DDS Converter"
-                           Foreground="White"
-                           VerticalAlignment="Center"
-                           HorizontalAlignment="Left"
-                           FontSize="20"/>
+                           FontSize="20"
+                           Width="170"/>
             </Button>
 
             <Button x:Name="btnTopHKXConv"
@@ -57,7 +49,8 @@
                            Foreground="White"
                            VerticalAlignment="Center"
                            HorizontalAlignment="Left"
-                           FontSize="20"/>
+                           FontSize="20"
+                           Width="170"/>
             </Button>
 
             <Button x:Name="btnTopColConv"
@@ -68,9 +61,11 @@
                     Margin="0,0,0,8">
                 <TextBlock Text="Collision Converter"
                           Foreground="White"
+                          TextAlignment="Left"
                           VerticalAlignment="Center"
                           HorizontalAlignment="Left"
-                          FontSize="20"/>  
+                          FontSize="20"
+                          Width="170"/>
             </Button>
             <!--
             <Button x:Name="btnTopBRRES"
@@ -83,9 +78,42 @@
                           Foreground="White"
                           VerticalAlignment="Center"
                           HorizontalAlignment="Left"
-                          FontSize="20"/>
+                          FontSize="20"
+                          Width="170"/>
             </Button>
             -->
+            <Label
+                Content="Image"
+                FontSize="15" />
+
+            <Button x:Name="btnTopDDSConv"
+                    Click="btnTopDDSConv_Click"
+                    BorderThickness="0"
+                    Background="#FF202020"
+                    Height="40"
+                    Margin="0,0,0,8">
+                <TextBlock Text="DDS Converter"
+                           Foreground="White"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"
+                           FontSize="20"
+                           Width="170"/>
+            </Button>
+
+            <Button x:Name="btnTopSTEXConv"
+                    Click="btnTopSTEXConv_Click"
+                    BorderThickness="0"
+                    Background="#FF202020"
+                    Height="40"
+                    Margin="0,0,0,8">
+                <TextBlock Text="STEX Converter"
+                           Foreground="White"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"
+                           FontSize="20"
+                           Width="170"/>
+            </Button>
+            
         </StackPanel>
 
         <!-- Main content -->

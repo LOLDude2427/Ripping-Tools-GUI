@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="RippingToolsGUI.STEXConvPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:RippingToolsGUI"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="STEXConvPage"
+    d:DesignHeight="750"
+    d:DesignWidth="834"
+    Background="#212121"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Button
+            x:Name="btnSelectSTEX"
+            Width="267"
+            Height="56"
+            Margin="22,481,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="btnSelectSTEX_Click"
+            Content="Select *.stex textures directory"
+            FontSize="18" />
+        <Button
+            x:Name="btnConvSTEX"
+            Width="267"
+            Height="56"
+            Margin="0,481,22,0"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Top"
+            Click="btnConvSTEX_Click"
+            Content="Convert to *.png"
+            FontSize="18" />
+        <CheckBox
+            x:Name="checkBoxSortSTEX"
+            Width="297"
+            Height="32"
+            Margin="22,537,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="#FF212121"
+            Click="checkBoxSortSTEX_Click"
+            Content=" Sort By Compression Type"
+            FontSize="18" />
+        <ListBox
+            x:Name="listBox"
+            Height="435"
+            Width="790"
+            MinHeight="135"
+            Margin="0,22,0,0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top" />
+    </Grid>
+</Page>

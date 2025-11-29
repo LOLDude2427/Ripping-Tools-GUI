@@ -296,3 +296,5 @@ C:\Users\Nahley\Documents\GitHub\Ripping-Tools-GUI\RippingToolsGUI\obj\Debug\Rip
 C:\Users\Nahley\Documents\GitHub\Ripping-Tools-GUI\RippingToolsGUI\obj\Debug\RippingT.617AAC97.Up2Date
 C:\Users\Nahley\Documents\GitHub\Ripping-Tools-GUI\RippingToolsGUI\obj\Debug\RippingToolsGUI.exe
 C:\Users\Nahley\Documents\GitHub\Ripping-Tools-GUI\RippingToolsGUI\obj\Debug\RippingToolsGUI.pdb
+C:\Users\Nahley\Documents\GitHub\Ripping-Tools-GUI\RippingToolsGUI\obj\Debug\STEXConvPage.g.cs
+C:\Users\Nahley\Documents\GitHub\Ripping-Tools-GUI\RippingToolsGUI\obj\Debug\STEXConvPage.baml
