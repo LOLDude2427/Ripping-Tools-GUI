@@ -20,6 +20,8 @@ namespace TestWFP
             btnTopModelFBX.IsEnabled = false;
             btnTopDDSConv.IsEnabled = true;
             btnTopHKXConv.IsEnabled = true;
+            btnTopColConv.IsEnabled = true;
+            /// btnTopBRRES.IsEnabled = true;
         }
 
         private void btnTopDDSConv_Click(object sender, RoutedEventArgs e)
@@ -28,6 +30,8 @@ namespace TestWFP
             btnTopModelFBX.IsEnabled = true;
             btnTopDDSConv.IsEnabled = false;
             btnTopHKXConv.IsEnabled = true;
+            btnTopColConv.IsEnabled = true;
+            /// btnTopBRRES.IsEnabled = true;
         }
 
         private void btnTopHKXConv_Click(object sender, RoutedEventArgs e)
@@ -36,6 +40,28 @@ namespace TestWFP
             btnTopModelFBX.IsEnabled = true;
             btnTopDDSConv.IsEnabled = true;
             btnTopHKXConv.IsEnabled = false;
+            btnTopColConv.IsEnabled = true;
+            /// btnTopBRRES.IsEnabled = true;
         }
+
+        private void btnTopColConv_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new ColConvPage();
+            btnTopModelFBX.IsEnabled = true;
+            btnTopDDSConv.IsEnabled = true;
+            btnTopHKXConv.IsEnabled = true;
+            btnTopColConv.IsEnabled = false;
+            /// btnTopBRRES.IsEnabled = true;
+        }
+
+        /// private void btnTopBRRES_Click(object sender, RoutedEventArgs e)
+        /// {
+        ///    Main.Content = new BRRESPage();
+        ///    btnTopModelFBX.IsEnabled = true;
+        ///    btnTopDDSConv.IsEnabled = true;
+        ///    btnTopHKXConv.IsEnabled = true;
+        ///    btnTopColConv.IsEnabled = true;
+        ///    btnTopBRRES.IsEnabled = false;
+        /// }
     }
 }

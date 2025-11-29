@@ -1,0 +1,105 @@
+﻿<Page
+    x:Class="TestWFP.BRRESPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:TestWFP"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="BRRESPage"
+    d:DesignHeight="750"
+    d:DesignWidth="834"
+    Background="#212121"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Rectangle
+            Height="100"
+            MinWidth="500"
+            MinHeight="100"
+            Margin="22,22,22,0"
+            VerticalAlignment="Top"
+            Fill="#2d2c2c" />
+
+        <Label
+            Margin="33,22,365,0"
+            VerticalAlignment="Top"
+            Content="BRRES"
+            FontSize="24" />
+        <Label
+            Margin="51,69,573,0"
+            VerticalAlignment="Top"
+            Content="BRRES file (*.brres)"
+            FontSize="18" />
+        <TextBox
+            x:Name="txtBoxModel"
+            Height="28"
+            MinWidth="450"
+            MinHeight="25"
+            Margin="261,75,123,0"
+            VerticalAlignment="Top"
+            Background="#212121"
+            FontSize="18"
+            Text="None"
+            TextWrapping="Wrap" />
+        <Button
+            x:Name="btnSelectModel"
+            Height="28"
+            Margin="722,74,84,0"
+            VerticalAlignment="Top"
+            Background="#212121"
+            Click="btnSelectModel_Click"
+            Content="..." />
+
+        <Rectangle
+            Height="135"
+            MinWidth="500"
+            MinHeight="100"
+            Margin="22,144,22,0"
+            VerticalAlignment="Top"
+            Fill="#2d2c2c" />
+
+
+        <Label
+            Margin="33,144,362,0"
+            VerticalAlignment="Top"
+            Content="Settings"
+            FontSize="24" />
+        <CheckBox
+            x:Name="checkBoxConvAnim"
+            Width="297"
+            Height="32"
+            Margin="51,191,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="#FF212121"
+            Click="checkBoxConvAnim_Click"
+            Content=" Convert Animations"
+            FontSize="18" />
+        <CheckBox
+            x:Name="checkBoxConvAnimNoModel"
+            Width="346"
+            Height="32"
+            Margin="348,191,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="#FF212121"
+            Click="checkBoxConvAnimNoModel_Click"
+            Content=" Convert Animations Without Model"
+            FontSize="18" />
+
+        <Button
+            x:Name="btnBat"
+            Width="186"
+            Height="44"
+            Margin="22,301,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="#FF2D2C2C"
+            Click="btnBat_Click"
+            Content="Convert"
+            FontSize="24" />
+
+
+
+    </Grid>
+</Page>

@@ -7,26 +7,26 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     Title="ModelFBXPage"
     d:DesignHeight="750"
-    d:DesignWidth="1300"
+    d:DesignWidth="834"
     Background="#212121"
     mc:Ignorable="d">
 
     <Grid>
         <Rectangle
-            Height="179"
+            Height="117"
             MinWidth="500"
-            MinHeight="150"
-            Margin="43,26,42,0"
+            MinHeight="135"
+            Margin="22,22,22,0"
             VerticalAlignment="Top"
             Fill="#2d2c2c" />
 
         <Label
-            Margin="61,31,1002,0"
+            Margin="33,22,365,0"
             VerticalAlignment="Top"
-            Content="Convert your model"
+            Content="Model"
             FontSize="24" />
         <Label
-            Margin="106,94,898,0"
+            Margin="51,69,573,0"
             VerticalAlignment="Top"
             Content="Model file (*.model)"
             FontSize="18" />
@@ -35,7 +35,7 @@
             Height="28"
             MinWidth="450"
             MinHeight="25"
-            Margin="303,96,337,0"
+            Margin="261,75,123,0"
             VerticalAlignment="Top"
             Background="#212121"
             FontSize="18"
@@ -43,8 +43,8 @@
             TextWrapping="Wrap" />
         <Button
             x:Name="btnSelectModel"
-            Height="26"
-            Margin="968,96,296,0"
+            Height="28"
+            Margin="722,74,84,0"
             VerticalAlignment="Top"
             Background="#212121"
             Click="btnSelectModel_Click"
@@ -52,14 +52,14 @@
 
 
         <Label
-            Margin="106,134,898,0"
+            Margin="51,108,573,0"
             VerticalAlignment="Top"
             Content="Skeleton file (*.skl.hkx)"
             FontSize="18" />
         <TextBox
             x:Name="txtBoxSkl"
             Height="28"
-            Margin="303,138,337,0"
+            Margin="261,111,123,0"
             VerticalAlignment="Top"
             Background="#212121"
             FontSize="18"
@@ -68,59 +68,85 @@
         <Button
             x:Name="btnSelectSkl"
             Height="28"
-            Margin="968,138,296,0"
+            Margin="722,111,84,0"
             VerticalAlignment="Top"
             Background="#212121"
             Click="btnSelectSkl_Click"
-            Content="..." />
+            Content="..." RenderTransformOrigin="0.5,0.5" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button
+            x:Name="btnClearSkl"
+            Height="28"
+            Margin="761,111,45,0"
+            VerticalAlignment="Top"
+            Background="#212121"
+            Click="btnClearSkl_Click"
+            Content="X" RenderTransformOrigin="0.5,0.5" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
         <Rectangle
-            Height="266"
+            Height="135"
             MinWidth="500"
-            MinHeight="150"
-            Margin="40,234,45,0"
+            MinHeight="100"
+            Margin="22,186,22,0"
             VerticalAlignment="Top"
             Fill="#2d2c2c" />
 
 
         <Label
-            Margin="58,252,1005,0"
+            Margin="33,186,362,0"
             VerticalAlignment="Top"
             Content="Settings"
             FontSize="24" />
         <CheckBox
             x:Name="checkBoxConvAnim"
-            Width="241"
+            Width="297"
             Height="32"
-            Margin="510,318,0,0"
+            Margin="51,272,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Background="#FF212121"
             Click="checkBoxConvAnim_Click"
-            Content="Convert animations (*.hkx)?"
+            Content=" Convert Animations (*.anm.hkx)"
             FontSize="18" />
         <CheckBox
             x:Name="checkBoxConvAnimNoModel"
-            Width="307"
+            Width="346"
             Height="32"
-            Margin="510,368,0,0"
+            Margin="348,272,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Background="#FF212121"
             Click="checkBoxConvAnimNoModel_Click"
-            Content="Convert animations without model?"
+            Content=" Convert Animations Without Model"
             FontSize="18" />
         <Label
-            Margin="303,344,0,0"
+            Margin="51,233,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content="ModelFBX Version"
-            FontSize="18" />
+            FontSize="18" Width="210" />
 
         <Button
             x:Name="btnBat"
             Width="186"
-            Height="66"
-            Margin="43,532,0,0"
+            Height="44"
+            Margin="22,343,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Background="#FF2D2C2C"
@@ -130,14 +156,14 @@
 
         <ComboBox
             x:Name="comboBoxModelFBXVersion"
-            Width="194"
-            Margin="88,348,0,0"
+            Width="445"
+            Margin="261,236,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Background="#FF212121"
             BorderBrush="Transparent"
-            FontSize="18"
-            SelectionChanged="comboBoxModelFBXVersion_SelectionChanged">
+            FontSize="16"
+            SelectionChanged="comboBoxModelFBXVersion_SelectionChanged" Height="28">
             <ComboBoxItem
                 Background="Transparent"
                 BorderBrush="Transparent"
@@ -152,14 +178,6 @@
                 <Label Content="2012" />
             </ComboBoxItem>
         </ComboBox>
-        <Button
-            x:Name="btnClearSkl"
-            Height="28"
-            Margin="1014,138,250,0"
-            VerticalAlignment="Top"
-            Background="#212121"
-            Click="btnClearSkl_Click"
-            Content="X" />
 
 
 

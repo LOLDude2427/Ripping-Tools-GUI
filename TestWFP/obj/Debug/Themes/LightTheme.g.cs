@@ -52,7 +52,7 @@ namespace REghZyFramework.Themes {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TestWFP;component/themes/lighttheme.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RippingToolsGUI;component/themes/lighttheme.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Themes\LightTheme.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
