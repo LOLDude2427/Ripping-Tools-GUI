@@ -3,78 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|solutionrelative:testwfp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\brrespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\brrespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\brrespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\brrespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\testwfp\\modelfbxpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|solutionrelative:testwfp\\modelfbxpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\testwfp\\modelfbxpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|solutionrelative:testwfp\\modelfbxpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\colconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\colconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\hkxconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|solutionrelative:testwfp\\hkxconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\brrespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\brrespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\colconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\colconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\Nexus Utils.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\hkxconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\Nexus Utils.csproj|solutionrelative:testwfp\\hkxconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\colconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\colconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|solutionrelative:testwfp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\ddsconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\ddsconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\ddsconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\ddsconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|solutionrelative:testwfp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\hkxconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\hkxconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\ddsconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|solutionrelative:testwfp\\ddsconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\hkxconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\hkxconvpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\Nexus Utils.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\Nexus Utils.csproj|solutionrelative:testwfp\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\modelfbxpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\modelfbxpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\testwfp\\ddsconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|solutionrelative:testwfp\\ddsconvpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\modelfbxpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\modelfbxpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RippingToolsGUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\testwfp\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\TestWFP.csproj|solutionrelative:testwfp\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|c:\\users\\nahley\\documents\\github\\ripping-tools-gui\\testwfp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{535D81F0-53CD-41F6-BD44-72EBF2F4615C}|TestWFP\\RippingToolsGUI.csproj|solutionrelative:testwfp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,236 +66,182 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BRRESPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\BRRESPage.xaml",
-              "RelativeDocumentMoniker": "TestWFP\\BRRESPage.xaml",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\BRRESPage.xaml*",
-              "RelativeToolTip": "TestWFP\\BRRESPage.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-29T15:56:31.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BRRESPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\BRRESPage.xaml.cs",
-              "RelativeDocumentMoniker": "TestWFP\\BRRESPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\BRRESPage.xaml.cs",
-              "RelativeToolTip": "TestWFP\\BRRESPage.xaml.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAIwFkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T15:55:50.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ColConvPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ColConvPage.xaml.cs",
-              "RelativeDocumentMoniker": "TestWFP\\ColConvPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ColConvPage.xaml.cs",
-              "RelativeToolTip": "TestWFP\\ColConvPage.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAewEMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T15:17:33.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ColConvPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ColConvPage.xaml",
-              "RelativeDocumentMoniker": "TestWFP\\ColConvPage.xaml",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ColConvPage.xaml",
-              "RelativeToolTip": "TestWFP\\ColConvPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-29T15:15:01.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HKXConvPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\HKXConvPage.xaml",
-              "RelativeDocumentMoniker": "TestWFP\\HKXConvPage.xaml",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\HKXConvPage.xaml",
-              "RelativeToolTip": "TestWFP\\HKXConvPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-29T03:31:18.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TestWFP\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "TestWFP\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T05:44:43.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HKXConvPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\HKXConvPage.xaml.cs",
-              "RelativeDocumentMoniker": "TestWFP\\HKXConvPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\HKXConvPage.xaml.cs",
-              "RelativeToolTip": "TestWFP\\HKXConvPage.xaml.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAswGIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T05:33:16.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "TestWFP\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\MainWindow.xaml*",
-              "RelativeToolTip": "TestWFP\\MainWindow.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-29T03:31:20.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ModelFBXPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ModelFBXPage.xaml",
-              "RelativeDocumentMoniker": "TestWFP\\ModelFBXPage.xaml",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ModelFBXPage.xaml",
-              "RelativeToolTip": "TestWFP\\ModelFBXPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-22T01:08:39.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\App.config",
-              "RelativeDocumentMoniker": "TestWFP\\App.config",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\App.config",
-              "RelativeToolTip": "TestWFP\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-11-29T03:31:09.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ModelFBXPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ModelFBXPage.xaml.cs",
-              "RelativeDocumentMoniker": "TestWFP\\ModelFBXPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ModelFBXPage.xaml.cs",
-              "RelativeToolTip": "TestWFP\\ModelFBXPage.xaml.cs",
-              "ViewState": "AgIAAAwBAAAAAAAAAAAiwKgAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T01:08:45.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\App.xaml.cs",
               "RelativeDocumentMoniker": "TestWFP\\App.xaml.cs",
               "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\App.xaml.cs",
               "RelativeToolTip": "TestWFP\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T05:45:29.374Z",
+              "WhenOpened": "2025-11-29T17:27:46.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\App.xaml",
               "RelativeDocumentMoniker": "TestWFP\\App.xaml",
               "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\App.xaml",
               "RelativeToolTip": "TestWFP\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-29T03:31:14.687Z",
+              "WhenOpened": "2025-11-29T17:27:40.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
+              "Title": "BRRESPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\BRRESPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestWFP\\BRRESPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\BRRESPage.xaml.cs",
+              "RelativeToolTip": "TestWFP\\BRRESPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:27:34.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BRRESPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\BRRESPage.xaml",
+              "RelativeDocumentMoniker": "TestWFP\\BRRESPage.xaml",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\BRRESPage.xaml",
+              "RelativeToolTip": "TestWFP\\BRRESPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-29T17:27:29.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColConvPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ColConvPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestWFP\\ColConvPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ColConvPage.xaml.cs",
+              "RelativeToolTip": "TestWFP\\ColConvPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:27:24.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColConvPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ColConvPage.xaml",
+              "RelativeDocumentMoniker": "TestWFP\\ColConvPage.xaml",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ColConvPage.xaml",
+              "RelativeToolTip": "TestWFP\\ColConvPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-29T17:27:15.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DDSConvPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\DDSConvPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestWFP\\DDSConvPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\DDSConvPage.xaml.cs",
+              "RelativeToolTip": "TestWFP\\DDSConvPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:27:10.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DDSConvPage.xaml",
               "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\DDSConvPage.xaml",
               "RelativeDocumentMoniker": "TestWFP\\DDSConvPage.xaml",
               "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\DDSConvPage.xaml",
               "RelativeToolTip": "TestWFP\\DDSConvPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-22T00:51:53.208Z",
+              "WhenOpened": "2025-11-29T17:27:05.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Settings.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\Properties\\Settings.Designer.cs",
-              "RelativeDocumentMoniker": "TestWFP\\Properties\\Settings.Designer.cs",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\Properties\\Settings.Designer.cs",
-              "RelativeToolTip": "TestWFP\\Properties\\Settings.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "HKXConvPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\HKXConvPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestWFP\\HKXConvPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\HKXConvPage.xaml.cs",
+              "RelativeToolTip": "TestWFP\\HKXConvPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T04:08:51.573Z",
+              "WhenOpened": "2025-11-29T17:26:59.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RippingToolsGUI",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\RippingToolsGUI.csproj",
-              "RelativeDocumentMoniker": "TestWFP\\RippingToolsGUI.csproj",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\RippingToolsGUI.csproj",
-              "RelativeToolTip": "TestWFP\\RippingToolsGUI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-29T05:42:42.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DDSConvPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\DDSConvPage.xaml.cs",
-              "RelativeDocumentMoniker": "TestWFP\\DDSConvPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\DDSConvPage.xaml.cs",
-              "RelativeToolTip": "TestWFP\\DDSConvPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T00:54:29.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DarkTheme.xaml",
-              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\Themes\\DarkTheme.xaml",
-              "RelativeDocumentMoniker": "TestWFP\\Themes\\DarkTheme.xaml",
-              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\Themes\\DarkTheme.xaml",
-              "RelativeToolTip": "TestWFP\\Themes\\DarkTheme.xaml",
+              "DocumentIndex": 9,
+              "Title": "HKXConvPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\HKXConvPage.xaml",
+              "RelativeDocumentMoniker": "TestWFP\\HKXConvPage.xaml",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\HKXConvPage.xaml",
+              "RelativeToolTip": "TestWFP\\HKXConvPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-22T00:29:43.432Z",
+              "WhenOpened": "2025-11-29T17:26:54.587Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModelFBXPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ModelFBXPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestWFP\\ModelFBXPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ModelFBXPage.xaml.cs",
+              "RelativeToolTip": "TestWFP\\ModelFBXPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:26:49.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModelFBXPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ModelFBXPage.xaml",
+              "RelativeDocumentMoniker": "TestWFP\\ModelFBXPage.xaml",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\ModelFBXPage.xaml",
+              "RelativeToolTip": "TestWFP\\ModelFBXPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-29T17:26:41.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestWFP\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TestWFP\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:26:32.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TestWFP\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nahley\\Documents\\GitHub\\Ripping-Tools-GUI\\TestWFP\\MainWindow.xaml",
+              "RelativeToolTip": "TestWFP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-29T17:26:00.082Z",
+              "EditorCaption": ""
             }
           ]
         }
