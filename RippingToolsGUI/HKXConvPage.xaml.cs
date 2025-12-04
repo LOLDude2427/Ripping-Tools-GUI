@@ -22,7 +22,7 @@ namespace RippingToolsGUI
         private void btnSelectHKX_Click(object sender, RoutedEventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
-            ofd.Filter = ("HKX Animation file|*anm.hkx");
+            ofd.Filter = ("HKX Animation file|*.hkx");
 
             if (ofd.ShowDialog() == true)
             {
@@ -31,7 +31,7 @@ namespace RippingToolsGUI
                 string fullPath = ofd.FileName;
                 HKXDir = fullPath.Substring(0, fullPath.LastIndexOf('\\'));
 
-                foreach (String item in Directory.EnumerateFiles(HKXDir, "*.anm.hkx"))
+                foreach (String item in Directory.EnumerateFiles(HKXDir, "*.hkx"))
                 {
                     listBoxHKXView.Items.Add(item);
                 }
@@ -69,7 +69,7 @@ namespace RippingToolsGUI
                 System.IO.File.Delete($@"{HKXDir}/BatchConvert.bat");
                 System.IO.File.Delete($@"{HKXDir}/HKXConverter.exe");
 
-                MessageBox.Show("Converted *.anm.hkx files.");
+                MessageBox.Show("Converted *.hkx files.");
             }
             else if(HKXVersion == "HKXForces")
             {
@@ -96,7 +96,7 @@ namespace RippingToolsGUI
                 System.IO.File.Delete($@"{HKXDir}/TagTools.VIR");
                 System.IO.File.Delete($@"{HKXDir}/TypeDatabase.xml");
 
-                MessageBox.Show("Converted *.anm.hkx files.");
+                MessageBox.Show("Converted *.hkx files.");
             }
         }
 
